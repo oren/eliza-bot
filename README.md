@@ -1,5 +1,6 @@
-elizabot-js
-===========
+# Eliza Bot
+
+(Copied from [elisabot-js](https://github.com/brandongmwong/elizabot-js))
 
 Eliza JS bot based on www.masswerk.at/elizabot and http://en.wikipedia.org/wiki/ELIZA
 
